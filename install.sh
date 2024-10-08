@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Clone to /tmp/nvims and run from there.
-git clone https://github.com/Traap/nvims /tmp/traap/nvims
+git clone https://github.com/fire9/nvims /tmp/traap/nvims
 cd /tmp/traap/nvims
 
 # Copy files to their production locations.
