@@ -5,8 +5,8 @@ git clone https://github.com/Traap/nvims /tmp/traap/nvims
 cd /tmp/traap/nvims
 
 # Copy files to their production locations.
-sudo cp -v nvims /usr/local/bin/.
-sudo chmod -v +x /usr/local/bin/nvims
+sudo cp -v nvims /usr/bin/.
+sudo chmod -v +x /usr/bin/nvims
 
 # Create config directory and copy files there.
 mkdir -p "$HOME"/.config/nvims
